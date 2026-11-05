@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DonManzano91 or Alejandro Manzano
-- 👀 I’m interested in develop, creation of services, APIs, data science and bioinformatics, i also love learning things, offline i like reading fiction and to
-- play guitar, hope some day i'll be a jazz guitarist
+- 👀 I’m interested in develop, creation of services, APIs, data science and bioinformatics, i also love learning things, offline i like reading fiction and to play piano and dance tango
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on tech companies, bioinformatics or statics would be my final goal but learning is never extra and that's why jobs are for.
 - 📫 How to reach me, you can send me an e-mail at amanzano.lop@gmail.com
